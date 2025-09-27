@@ -8,7 +8,7 @@ CSC172 first assignment
 - Date: 2025-09-27
 
 ## Dataset
-- Source: [Kaggle/UCI link]
+- Source: [\[Kaggle/UCI link\]](https://www.kaggle.com/competitions/titanic/data)
 - Name: TITANIC
 
 ## Issues found
@@ -25,6 +25,7 @@ CSC172 first assignment
 4. Outliers: 0
 
 ## AI prompts used
+### AI used : copilot
 - Prompt 1: "generetae a cleaning code for the dataset given"
 - Generated code: # ...existing code...
 
